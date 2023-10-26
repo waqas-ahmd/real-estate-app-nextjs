@@ -1,0 +1,991 @@
+[
+  {
+    "name": "Seaside Paradise Villa",
+    "description": "Luxurious villa with breathtaking ocean views and private beach access.",
+    "address": "123 Oceanfront Drive",
+    "city": "Malibu",
+    "id": "a1b4444e-58cb-4f8c-9ec1-ddb73fccd6fd",
+    "location": {
+      "lat": 52.71696782701086,
+      "lng": -2.248214745235242
+    },
+    "area": 371,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "price": 60000,
+    "images": [
+      "/properties/img_5.jpg",
+      "/properties/img_37.jpg",
+      "/properties/img_57.jpg",
+      "/properties/img_26.jpg",
+      "/properties/img_69.jpg"
+    ],
+    "date": "8/21/2023"
+  },
+  {
+    "name": "Downtown Skyline Condo",
+    "description": "Contemporary condo in the heart of the city with stunning skyline views.",
+    "address": "456 High Street",
+    "city": "New York",
+    "id": "5c73a717-0d4e-4b8c-a2b7-d3f22207eff3",
+    "location": {
+      "lat": 52.92814841755051,
+      "lng": -2.5190641458335774
+    },
+    "area": 9610,
+    "bedrooms": 7,
+    "bathrooms": 1,
+    "price": 17000,
+    "images": [
+      "/properties/img_34.jpg",
+      "/properties/img_67.jpg",
+      "/properties/img_16.jpg",
+      "/properties/img_55.jpg",
+      "/properties/img_38.jpg"
+    ],
+    "date": "9/16/2023"
+  },
+  {
+    "name": "Cozy Suburban Home",
+    "description": "Charming family home in a quiet suburban neighborhood with a spacious backyard.",
+    "address": "789 Elm Avenue",
+    "city": "Chicago",
+    "id": "7b134d7a-3cbc-450c-ad55-e083c1833361",
+    "location": {
+      "lat": 52.6015741163844,
+      "lng": -2.688953055598347
+    },
+    "area": 7398,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "price": 1000,
+    "images": [
+      "/properties/img_50.jpg",
+      "/properties/img_46.jpg",
+      "/properties/img_47.jpg",
+      "/properties/img_58.jpg",
+      "/properties/img_2.jpg"
+    ],
+    "date": "9/29/2023"
+  },
+  {
+    "name": "Modern Urban Loft",
+    "description": "Sleek and stylish loft in a trendy urban setting with open-concept design.",
+    "address": "101 Loft Lane",
+    "city": "Los Angeles",
+    "id": "9bd66928-bc1e-4339-8540-7a484443c75f",
+    "location": {
+      "lat": 52.96178800925517,
+      "lng": -2.794896790494432
+    },
+    "area": 5560,
+    "bedrooms": 8,
+    "bathrooms": 9,
+    "price": 93000,
+    "images": [
+      "/properties/img_2.jpg",
+      "/properties/img_32.jpg",
+      "/properties/img_38.jpg",
+      "/properties/img_11.jpg",
+      "/properties/img_57.jpg"
+    ],
+    "date": "9/22/2023"
+  },
+  {
+    "name": "Mountain Chalet Retreat",
+    "description": "Rustic chalet with panoramic mountain views, perfect for nature lovers.",
+    "address": "234 Mountain View Road",
+    "city": "Aspen",
+    "id": "3a5eee21-03dd-479f-aff9-31884d409f37",
+    "location": {
+      "lat": 52.779335127110514,
+      "lng": -2.14534033155622
+    },
+    "area": 4855,
+    "bedrooms": 9,
+    "bathrooms": 9,
+    "price": 93000,
+    "images": [
+      "/properties/img_39.jpg",
+      "/properties/img_18.jpg",
+      "/properties/img_66.jpg",
+      "/properties/img_48.jpg",
+      "/properties/img_51.jpg"
+    ],
+    "date": "9/11/2023"
+  },
+  {
+    "name": "Riverside Cabin Getaway",
+    "description": "Quaint cabin nestled by the river, offering a serene escape from city life.",
+    "address": "345 Riverside Lane",
+    "city": "Boulder",
+    "id": "8947b714-39fa-4be0-89de-05771f11861d",
+    "location": {
+      "lat": 52.66323318131396,
+      "lng": -2.2745962185540165
+    },
+    "area": 8146,
+    "bedrooms": 1,
+    "bathrooms": 7,
+    "price": 12000,
+    "images": [
+      "/properties/img_6.jpg",
+      "/properties/img_37.jpg",
+      "/properties/img_8.jpg",
+      "/properties/img_64.jpg",
+      "/properties/img_57.jpg"
+    ],
+    "date": "8/24/2023"
+  },
+  {
+    "name": "Luxury Lakeside Estate",
+    "description": "Exquisite lakeside estate with a private dock and pristine water views.",
+    "address": "567 Lakefront Avenue",
+    "city": "Lake Tahoe",
+    "id": "578d05f7-a62a-4bba-82df-e86c8199ee8c",
+    "location": {
+      "lat": 53.11886498794067,
+      "lng": -2.639396944984796
+    },
+    "area": 8696,
+    "bedrooms": 9,
+    "bathrooms": 3,
+    "price": 70000,
+    "images": [
+      "/properties/img_65.jpg",
+      "/properties/img_55.jpg",
+      "/properties/img_16.jpg",
+      "/properties/img_64.jpg",
+      "/properties/img_72.jpg"
+    ],
+    "date": "9/1/2023"
+  },
+  {
+    "name": "Country Farmhouse Charm",
+    "description": "Traditional farmhouse in the peaceful countryside, a slice of rural living.",
+    "address": "678 Farmhouse Road",
+    "city": "Countryside",
+    "id": "234845ba-e4b6-44c5-80a5-3814ea43f622",
+    "location": {
+      "lat": 52.72334194418804,
+      "lng": -2.3087528879807557
+    },
+    "area": 9319,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "price": 74000,
+    "images": [
+      "/properties/img_6.jpg",
+      "/properties/img_45.jpg",
+      "/properties/img_63.jpg",
+      "/properties/img_64.jpg",
+      "/properties/img_54.jpg"
+    ],
+    "date": "9/25/2023"
+  },
+  {
+    "name": "Penthouse with a View",
+    "description": "Elegant penthouse with floor-to-ceiling windows and panoramic city views.",
+    "address": "789 Penthouse Plaza",
+    "city": "Miami",
+    "id": "6b90fbdb-2b18-499d-8881-b67c72051e59",
+    "location": {
+      "lat": 52.95920823117046,
+      "lng": -2.146179398853873
+    },
+    "area": 9275,
+    "bedrooms": 2,
+    "bathrooms": 9,
+    "price": 51000,
+    "images": [
+      "/properties/img_18.jpg",
+      "/properties/img_57.jpg",
+      "/properties/img_27.jpg",
+      "/properties/img_1.jpg",
+      "/properties/img_65.jpg"
+    ],
+    "date": "9/7/2023"
+  },
+  {
+    "name": "Desert Oasis Residence",
+    "description": "Elegant desert oasis offering tranquility in the midst of arid landscapes.",
+    "address": "890 Oasis Street",
+    "city": "Phoenix",
+    "id": "978546ce-62bc-45e1-8f23-d40d3d45aa35",
+    "location": {
+      "lat": 52.98417869007529,
+      "lng": -2.3082975293860493
+    },
+    "area": 1474,
+    "bedrooms": 1,
+    "bathrooms": 9,
+    "price": 86000,
+    "images": [
+      "/properties/img_57.jpg",
+      "/properties/img_17.jpg",
+      "/properties/img_5.jpg",
+      "/properties/img_47.jpg",
+      "/properties/img_44.jpg"
+    ],
+    "date": "8/18/2023"
+  },
+  {
+    "name": "Historic Townhouse Gem",
+    "description": "Preserved historic townhouse with period details and modern comforts.",
+    "address": "123 Heritage Lane",
+    "city": "Boston",
+    "id": "1e47d6d9-6e45-4181-85fa-ffb5f4781304",
+    "location": {
+      "lat": 52.883564669096295,
+      "lng": -2.7944805806713156
+    },
+    "area": 4811,
+    "bedrooms": 9,
+    "bathrooms": 3,
+    "price": 25000,
+    "images": [
+      "/properties/img_40.jpg",
+      "/properties/img_36.jpg",
+      "/properties/img_49.jpg",
+      "/properties/img_56.jpg",
+      "/properties/img_44.jpg"
+    ],
+    "date": "9/7/2023"
+  },
+  {
+    "name": "Beachfront Bungalow",
+    "description": "Charming beachfront bungalow with direct access to the sandy shores.",
+    "address": "234 Beachside Road",
+    "city": "Santa Monica",
+    "id": "27b7b117-c81d-4a9a-a6de-ad59bf73dc11",
+    "location": {
+      "lat": 52.907409808294325,
+      "lng": -2.5409403522988314
+    },
+    "area": 8685,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 3000,
+    "images": [
+      "/properties/img_10.jpg",
+      "/properties/img_27.jpg",
+      "/properties/img_36.jpg",
+      "/properties/img_4.jpg",
+      "/properties/img_66.jpg"
+    ],
+    "date": "10/4/2023"
+  },
+  {
+    "name": "Equestrian Estate",
+    "description": "Sprawling equestrian estate with stables, riding arenas, and scenic pastures.",
+    "address": "345 Equestrian Lane",
+    "city": "Lexington",
+    "id": "5068fee8-beb7-4118-a6dc-c404696314f6",
+    "location": {
+      "lat": 52.69397484870911,
+      "lng": -2.0857965560318594
+    },
+    "area": 7091,
+    "bedrooms": 7,
+    "bathrooms": 4,
+    "price": 37000,
+    "images": [
+      "/properties/img_54.jpg",
+      "/properties/img_71.jpg",
+      "/properties/img_33.jpg",
+      "/properties/img_26.jpg",
+      "/properties/img_36.jpg"
+    ],
+    "date": "9/29/2023"
+  },
+  {
+    "name": "Ski Lodge Retreat",
+    "description": "Cozy ski lodge with ski-in/ski-out access and mountain lodge ambiance.",
+    "address": "456 Ski Chalet Avenue",
+    "city": "Aspen",
+    "id": "dfe23d1a-7b8e-4e72-9539-d0d89905e132",
+    "location": {
+      "lat": 52.59917500860765,
+      "lng": -2.2836875017404923
+    },
+    "area": 948,
+    "bedrooms": 10,
+    "bathrooms": 1,
+    "price": 81000,
+    "images": [
+      "/properties/img_63.jpg",
+      "/properties/img_13.jpg",
+      "/properties/img_60.jpg",
+      "/properties/img_63.jpg",
+      "/properties/img_68.jpg"
+    ],
+    "date": "9/2/2023"
+  },
+  {
+    "name": "City Garden Oasis",
+    "description": "Urban oasis with a lush garden, tucked away in the heart of the city.",
+    "address": "567 Green Garden Street",
+    "city": "San Francisco",
+    "id": "1b03bdb5-3ad0-4e17-8cf4-6af80e8589e6",
+    "location": {
+      "lat": 52.69958667844258,
+      "lng": -2.087350906448816
+    },
+    "area": 2424,
+    "bedrooms": 1,
+    "bathrooms": 8,
+    "price": 16000,
+    "images": [
+      "/properties/img_7.jpg",
+      "/properties/img_45.jpg",
+      "/properties/img_23.jpg",
+      "/properties/img_36.jpg",
+      "/properties/img_16.jpg"
+    ],
+    "date": "10/10/2023"
+  },
+  {
+    "name": "Golf Course View Villa",
+    "description": "Villa overlooking the golf course, perfect for golf enthusiasts.",
+    "address": "678 Fairway Drive",
+    "city": "Palm Springs",
+    "id": "3b77ef7b-66bc-473a-b570-014d4618249d",
+    "location": {
+      "lat": 52.66612742830879,
+      "lng": -2.774356250563004
+    },
+    "area": 1832,
+    "bedrooms": 10,
+    "bathrooms": 10,
+    "price": 51000,
+    "images": [
+      "/properties/img_5.jpg",
+      "/properties/img_2.jpg",
+      "/properties/img_23.jpg",
+      "/properties/img_7.jpg",
+      "/properties/img_57.jpg"
+    ],
+    "date": "9/24/2023"
+  },
+  {
+    "name": "Rural Riverfront Cabin",
+    "description": "Remote riverfront cabin for a rustic getaway in the wilderness.",
+    "address": "789 Riverbend Road",
+    "city": "Bozeman",
+    "id": "16776ba1-f6a1-4dd4-9116-865ce8923229",
+    "location": {
+      "lat": 52.78864668192506,
+      "lng": -2.4705068032477753
+    },
+    "area": 9522,
+    "bedrooms": 1,
+    "bathrooms": 9,
+    "price": 78000,
+    "images": [
+      "/properties/img_55.jpg",
+      "/properties/img_69.jpg",
+      "/properties/img_12.jpg",
+      "/properties/img_64.jpg",
+      "/properties/img_26.jpg"
+    ],
+    "date": "9/17/2023"
+  },
+  {
+    "name": "Mansion on the Hill",
+    "description": "Grand mansion perched on a hilltop, offering panoramic vistas.",
+    "address": "890 Hillside Lane",
+    "city": "Beverly Hills",
+    "id": "023020df-d94b-46b1-abbb-ab2f6fefd6b7",
+    "location": {
+      "lat": 52.81904921191433,
+      "lng": -2.5239877841031806
+    },
+    "area": 2979,
+    "bedrooms": 6,
+    "bathrooms": 1,
+    "price": 89000,
+    "images": [
+      "/properties/img_6.jpg",
+      "/properties/img_59.jpg",
+      "/properties/img_25.jpg",
+      "/properties/img_53.jpg",
+      "/properties/img_42.jpg"
+    ],
+    "date": "8/19/2023"
+  },
+  {
+    "name": "Art Deco City Apartment",
+    "description": "Art Deco-inspired apartment in a historic city building.",
+    "address": "123 Deco Street",
+    "city": "Miami",
+    "id": "4f061337-feed-4732-a763-81642a4991ae",
+    "location": {
+      "lat": 52.84247381083712,
+      "lng": -2.3235531924517323
+    },
+    "area": 5664,
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "price": 38000,
+    "images": [
+      "/properties/img_3.jpg",
+      "/properties/img_6.jpg",
+      "/properties/img_1.jpg",
+      "/properties/img_27.jpg",
+      "/properties/img_38.jpg"
+    ],
+    "date": "9/17/2023"
+  },
+  {
+    "name": "Wine Country Estate",
+    "description": "Estate in the heart of wine country with vineyards and wine cellars.",
+    "address": "234 Vineyard Road",
+    "city": "Napa Valley",
+    "id": "c517a2c6-d1da-4e27-92e1-880a8be615ec",
+    "location": {
+      "lat": 52.853602615014914,
+      "lng": -1.9519098171238298
+    },
+    "area": 1840,
+    "bedrooms": 8,
+    "bathrooms": 5,
+    "price": 38000,
+    "images": [
+      "/properties/img_73.jpg",
+      "/properties/img_58.jpg",
+      "/properties/img_18.jpg",
+      "/properties/img_48.jpg",
+      "/properties/img_21.jpg"
+    ],
+    "date": "10/1/2023"
+  },
+  {
+    "name": "Lakeview Cottage",
+    "description": "Charming cottage with stunning lake views and water access.",
+    "address": "345 Lakeside Lane",
+    "city": "Lake Geneva",
+    "id": "3840e065-6562-4822-b561-5468f755dd46",
+    "location": {
+      "lat": 52.74677285540667,
+      "lng": -2.683833736209156
+    },
+    "area": 7546,
+    "bedrooms": 2,
+    "bathrooms": 7,
+    "price": 26000,
+    "images": [
+      "/properties/img_60.jpg",
+      "/properties/img_70.jpg",
+      "/properties/img_46.jpg",
+      "/properties/img_70.jpg",
+      "/properties/img_70.jpg"
+    ],
+    "date": "9/17/2023"
+  },
+  {
+    "name": "Rural Retreat Farm",
+    "description": "Rural retreat on a working farm, perfect for peaceful living.",
+    "address": "456 Farmstead Road",
+    "city": "Countryside",
+    "id": "1ef47b04-aeb1-4885-9c63-c6adcf2198f5",
+    "location": {
+      "lat": 52.84509494303787,
+      "lng": -1.8145159706131062
+    },
+    "area": 6755,
+    "bedrooms": 1,
+    "bathrooms": 6,
+    "price": 56000,
+    "images": [
+      "/properties/img_65.jpg",
+      "/properties/img_63.jpg",
+      "/properties/img_39.jpg",
+      "/properties/img_8.jpg",
+      "/properties/img_50.jpg"
+    ],
+    "date": "9/29/2023"
+  },
+  {
+    "name": "Sky-High Penthouse",
+    "description": "Luxury penthouse on the top floor with unrivaled cityscape panoramas.",
+    "address": "567 Penthouse Plaza",
+    "city": "New York",
+    "id": "1ce34617-f8ad-4896-85c5-25f6edcd9c42",
+    "location": {
+      "lat": 52.97455616397425,
+      "lng": -2.2872676527822753
+    },
+    "area": 1592,
+    "bedrooms": 6,
+    "bathrooms": 2,
+    "price": 67000,
+    "images": [
+      "/properties/img_7.jpg",
+      "/properties/img_59.jpg",
+      "/properties/img_55.jpg",
+      "/properties/img_50.jpg",
+      "/properties/img_32.jpg"
+    ],
+    "date": "9/11/2023"
+  },
+  {
+    "name": "Tropical Paradise Villa",
+    "description": "Tropical villa with lush gardens, a pool, and island vibes.",
+    "address": "678 Tropicana Avenue",
+    "city": "Miami Beach",
+    "id": "0e2cc6fd-5761-4d6b-9c9a-0f2f11bf7a13",
+    "location": {
+      "lat": 53.04565273583652,
+      "lng": -1.9977266468587487
+    },
+    "area": 7312,
+    "bedrooms": 7,
+    "bathrooms": 7,
+    "price": 1000,
+    "images": [
+      "/properties/img_2.jpg",
+      "/properties/img_57.jpg",
+      "/properties/img_35.jpg",
+      "/properties/img_34.jpg",
+      "/properties/img_28.jpg"
+    ],
+    "date": "9/3/2023"
+  },
+  {
+    "name": "Historic Downtown Loft",
+    "description": "Historic loft space converted into modern city living.",
+    "address": "789 Loft Lane",
+    "city": "New Orleans",
+    "id": "ef3b39b3-df5c-4b23-b699-07c0bd413aa5",
+    "location": {
+      "lat": 52.77624677598763,
+      "lng": -1.9755581837284473
+    },
+    "area": 7173,
+    "bedrooms": 7,
+    "bathrooms": 1,
+    "price": 71000,
+    "images": [
+      "/properties/img_62.jpg",
+      "/properties/img_3.jpg",
+      "/properties/img_21.jpg",
+      "/properties/img_16.jpg",
+      "/properties/img_32.jpg"
+    ],
+    "date": "9/14/2023"
+  },
+  {
+    "name": "Sustainable Green Home",
+    "description": "Eco-friendly home with energy-efficient features and green living.",
+    "address": "890 Green Street",
+    "city": "Portland",
+    "id": "6f8b440c-861b-4d98-93ed-e0636af5d1af",
+    "location": {
+      "lat": 52.96124192868259,
+      "lng": -2.69982453527136
+    },
+    "area": 7112,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "price": 31000,
+    "images": [
+      "/properties/img_7.jpg",
+      "/properties/img_13.jpg",
+      "/properties/img_65.jpg",
+      "/properties/img_54.jpg",
+      "/properties/img_34.jpg"
+    ],
+    "date": "10/11/2023"
+  },
+  {
+    "name": "Ranch-Style Living",
+    "description": "Spacious ranch-style home with large acreage and rural charm.",
+    "address": "123 Ranch Road",
+    "city": "Dallas",
+    "id": "120985f3-f1e0-4b78-9e88-594ec9eb8b03",
+    "location": {
+      "lat": 52.63860113185533,
+      "lng": -1.9960572538418015
+    },
+    "area": 3352,
+    "bedrooms": 3,
+    "bathrooms": 8,
+    "price": 98000,
+    "images": [
+      "/properties/img_3.jpg",
+      "/properties/img_44.jpg",
+      "/properties/img_38.jpg",
+      "/properties/img_40.jpg",
+      "/properties/img_28.jpg"
+    ],
+    "date": "9/21/2023"
+  },
+  {
+    "name": "Beachside Condo Retreat",
+    "description": "Condo steps away from the beach with sea breezes and coastal living.",
+    "address": "234 Beachview Drive",
+    "city": "Santa Barbara",
+    "id": "ca80b7e9-7179-4a1b-9c75-1a0056fa0de1",
+    "location": {
+      "lat": 52.868604168125316,
+      "lng": -2.2813941660164923
+    },
+    "area": 2922,
+    "bedrooms": 10,
+    "bathrooms": 4,
+    "price": 43000,
+    "images": [
+      "/properties/img_32.jpg",
+      "/properties/img_5.jpg",
+      "/properties/img_15.jpg",
+      "/properties/img_62.jpg",
+      "/properties/img_6.jpg"
+    ],
+    "date": "10/11/2023"
+  },
+  {
+    "name": "Mountain View Chalet",
+    "description": "Mountain chalet with views that change with the seasons.",
+    "address": "345 Mountain Ridge Road",
+    "city": "Vail",
+    "id": "796190c8-3a66-4800-8799-d9fdf0bbaa14",
+    "location": {
+      "lat": 53.01617784987646,
+      "lng": -1.8029226562290157
+    },
+    "area": 9127,
+    "bedrooms": 1,
+    "bathrooms": 7,
+    "price": 49000,
+    "images": [
+      "/properties/img_38.jpg",
+      "/properties/img_72.jpg",
+      "/properties/img_70.jpg",
+      "/properties/img_63.jpg",
+      "/properties/img_72.jpg"
+    ],
+    "date": "8/30/2023"
+  },
+  {
+    "name": "Coastal Colonial Mansion",
+    "description": "Colonial-style mansion on the coast with classic elegance.",
+    "address": "456 Colonial Avenue",
+    "city": "Charleston",
+    "id": "f8976b7a-a1a4-444c-8327-94c0dbcae4ef",
+    "location": {
+      "lat": 53.124008671047264,
+      "lng": -2.594431146956142
+    },
+    "area": 7725,
+    "bedrooms": 3,
+    "bathrooms": 9,
+    "price": 2000,
+    "images": [
+      "/properties/img_15.jpg",
+      "/properties/img_20.jpg",
+      "/properties/img_54.jpg",
+      "/properties/img_18.jpg",
+      "/properties/img_31.jpg"
+    ],
+    "date": "9/28/2023"
+  },
+  {
+    "name": "Forest Cabin Getaway",
+    "description": "Secluded forest cabin with wildlife and tranquility.",
+    "address": "567 Forest Hideaway Lane",
+    "city": "Seattle",
+    "id": "0240167d-ab93-4b6e-8118-79901c4c455a",
+    "location": {
+      "lat": 52.61751266304875,
+      "lng": -2.6326938228399044
+    },
+    "area": 6276,
+    "bedrooms": 7,
+    "bathrooms": 5,
+    "price": 79000,
+    "images": [
+      "/properties/img_38.jpg",
+      "/properties/img_3.jpg",
+      "/properties/img_72.jpg",
+      "/properties/img_56.jpg",
+      "/properties/img_42.jpg"
+    ],
+    "date": "8/25/2023"
+  },
+  {
+    "name": "Seaside Cottage Charm",
+    "description": "Charming seaside cottage with seashell hunting and beachfront views.",
+    "address": "678 Seashell Lane",
+    "city": "Cape Cod",
+    "id": "cb80925e-f743-4841-9e35-20d49505ceae",
+    "location": {
+      "lat": 52.92299824493881,
+      "lng": -2.7541885046177743
+    },
+    "area": 5801,
+    "bedrooms": 10,
+    "bathrooms": 3,
+    "price": 40000,
+    "images": [
+      "/properties/img_42.jpg",
+      "/properties/img_46.jpg",
+      "/properties/img_13.jpg",
+      "/properties/img_24.jpg",
+      "/properties/img_67.jpg"
+    ],
+    "date": "10/17/2023"
+  },
+  {
+    "name": "Luxury Lakeside Retreat",
+    "description": "Luxurious lakeside retreat with a private dock and water activities.",
+    "address": "789 Lakeshore Drive",
+    "city": "Lake Tahoe",
+    "id": "d46911bc-d787-412b-8d3f-ee52fc90d836",
+    "location": {
+      "lat": 52.868175845322575,
+      "lng": -2.121526960436266
+    },
+    "area": 8637,
+    "bedrooms": 5,
+    "bathrooms": 7,
+    "price": 60000,
+    "images": [
+      "/properties/img_48.jpg",
+      "/properties/img_29.jpg",
+      "/properties/img_14.jpg",
+      "/properties/img_24.jpg",
+      "/properties/img_4.jpg"
+    ],
+    "date": "9/23/2023"
+  },
+  {
+    "name": "Country Victorian Estate",
+    "description": "Victorian-era estate surrounded by gardens and serenity.",
+    "address": "890 Victorian Manor Road",
+    "city": "Savannah",
+    "id": "120c9b08-7dec-459f-a24c-534d0c445e67",
+    "location": {
+      "lat": 52.82193124606712,
+      "lng": -2.406099166183056
+    },
+    "area": 9832,
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "price": 14000,
+    "images": [
+      "/properties/img_73.jpg",
+      "/properties/img_54.jpg",
+      "/properties/img_9.jpg",
+      "/properties/img_70.jpg",
+      "/properties/img_55.jpg"
+    ],
+    "date": "9/11/2023"
+  },
+  {
+    "name": "City Skyline View Apartment",
+    "description": "Apartment with floor-to-ceiling windows for breathtaking city views.",
+    "address": "123 Skyline Heights Road",
+    "city": "San Francisco",
+    "id": "5dedaa24-2be9-464b-b2fd-1ad35db478ce",
+    "location": {
+      "lat": 52.91804915692488,
+      "lng": -2.6120460132417262
+    },
+    "area": 9381,
+    "bedrooms": 6,
+    "bathrooms": 10,
+    "price": 41000,
+    "images": [
+      "/properties/img_13.jpg",
+      "/properties/img_23.jpg",
+      "/properties/img_2.jpg",
+      "/properties/img_22.jpg",
+      "/properties/img_69.jpg"
+    ],
+    "date": "8/31/2023"
+  },
+  {
+    "name": "Sunny Desert Villa",
+    "description": "Elegant villa in the sunny desert with pool and desert landscapes.",
+    "address": "234 Sunny Oasis Lane",
+    "city": "Scottsdale",
+    "id": "2c22c4b7-8c08-407c-b77d-b18d785fda6e",
+    "location": {
+      "lat": 53.12058891014776,
+      "lng": -2.028052095317394
+    },
+    "area": 7545,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "price": 34000,
+    "images": [
+      "/properties/img_32.jpg",
+      "/properties/img_25.jpg",
+      "/properties/img_57.jpg",
+      "/properties/img_51.jpg",
+      "/properties/img_3.jpg"
+    ],
+    "date": "9/24/2023"
+  },
+  {
+    "name": "Historic Colonial Charm",
+    "description": "Colonial-style home with period details and historic charm.",
+    "address": "345 Colonial Heritage Street",
+    "city": "Williamsburg",
+    "id": "fc8b0f1f-ef0b-4f14-b5a9-b195e1ebb13b",
+    "location": {
+      "lat": 52.846590441229075,
+      "lng": -2.157678694426041
+    },
+    "area": 6667,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "price": 37000,
+    "images": [
+      "/properties/img_60.jpg",
+      "/properties/img_67.jpg",
+      "/properties/img_30.jpg",
+      "/properties/img_62.jpg",
+      "/properties/img_60.jpg"
+    ],
+    "date": "9/15/2023"
+  },
+  {
+    "name": "Lakefront Living",
+    "description": "Lakefront living with boating, fishing, and peaceful waters.",
+    "address": "456 Lakeside View Road",
+    "city": "Lake Tahoe",
+    "id": "eda0746a-4cb2-4a3b-9711-b22cbe2c0fb8",
+    "location": {
+      "lat": 52.82039341673989,
+      "lng": -2.4583943771626804
+    },
+    "area": 2767,
+    "bedrooms": 8,
+    "bathrooms": 4,
+    "price": 79000,
+    "images": [
+      "/properties/img_21.jpg",
+      "/properties/img_54.jpg",
+      "/properties/img_26.jpg",
+      "/properties/img_23.jpg",
+      "/properties/img_17.jpg"
+    ],
+    "date": "9/15/2023"
+  },
+  {
+    "name": "Urban Garden Condo",
+    "description": "Condo with a private garden oasis in the midst of the city.",
+    "address": "567 Urban Garden Place",
+    "city": "Seattle",
+    "id": "a39e6667-32f9-4277-9c03-b67686ace708",
+    "location": {
+      "lat": 53.03101753288723,
+      "lng": -1.8610890454413738
+    },
+    "area": 320,
+    "bedrooms": 9,
+    "bathrooms": 3,
+    "price": 53000,
+    "images": [
+      "/properties/img_23.jpg",
+      "/properties/img_62.jpg",
+      "/properties/img_51.jpg",
+      "/properties/img_72.jpg",
+      "/properties/img_14.jpg"
+    ],
+    "date": "8/28/2023"
+  },
+  {
+    "name": "Hilltop Estate Mansion",
+    "description": "Majestic estate mansion perched atop a scenic hill.",
+    "address": "678 Hillside Manor Road",
+    "city": "Beverly Hills",
+    "id": "82f9af20-4a3b-4b32-9bcf-ee0cfaa28a30",
+    "location": {
+      "lat": 52.877713224634086,
+      "lng": -2.5522442435228747
+    },
+    "area": 5121,
+    "bedrooms": 8,
+    "bathrooms": 7,
+    "price": 71000,
+    "images": [
+      "/properties/img_26.jpg",
+      "/properties/img_35.jpg",
+      "/properties/img_8.jpg",
+      "/properties/img_58.jpg",
+      "/properties/img_6.jpg"
+    ],
+    "date": "10/2/2023"
+  },
+  {
+    "name": "Artistic Urban Loft",
+    "description": "Urban loft with artistic design and creative living spaces.",
+    "address": "789 Art Street",
+    "city": "Brooklyn",
+    "id": "b6d1a1b5-5526-430c-b5d8-525f6da27618",
+    "location": {
+      "lat": 52.57331358819348,
+      "lng": -2.7565153719625943
+    },
+    "area": 3412,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 4000,
+    "images": [
+      "/properties/img_59.jpg",
+      "/properties/img_16.jpg",
+      "/properties/img_44.jpg",
+      "/properties/img_46.jpg",
+      "/properties/img_24.jpg"
+    ],
+    "date": "9/23/2023"
+  },
+  {
+    "name": "Wine Country Retreat",
+    "description": "Retreat in wine country with vineyard views and wine cellars.",
+    "address": "890 Wine Country Lane",
+    "city": "Sonoma",
+    "id": "9fb3d505-d4d0-4610-980a-9db4b916b328",
+    "location": {
+      "lat": 52.559638071334156,
+      "lng": -2.1554077687960778
+    },
+    "area": 6084,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "price": 61000,
+    "images": [
+      "/properties/img_25.jpg",
+      "/properties/img_6.jpg",
+      "/properties/img_66.jpg",
+      "/properties/img_28.jpg",
+      "/properties/img_43.jpg"
+    ],
+    "date": "10/8/2023"
+  },
+  {
+    "name": "Lakeview Hideaway",
+    "description": "Hidden cottage with stunning lake views and a secluded location.",
+    "address": "123 Lakeview Retreat Road",
+    "city": "Lake Placid",
+    "id": "47321bf5-db7b-4335-a016-b7c0fd6f0502",
+    "location": {
+      "lat": 52.88470649214663,
+      "lng": -2.1564822211186074
+    },
+    "area": 6513,
+    "bedrooms": 8,
+    "bathrooms": 10,
+    "price": 66000,
+    "images": [
+      "/properties/img_63.jpg",
+      "/properties/img_44.jpg",
+      "/properties/img_12.jpg",
+      "/properties/img_53.jpg",
+      "/properties/img_3.jpg"
+    ],
+    "date": "9/28/2023"
+  }
+]
